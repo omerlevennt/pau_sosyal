@@ -1,16 +1,72 @@
-# pau_sosyal
+# PAU SOSYAL
 
-A new Flutter project.
+Günümüzde teknolojinin hızla gelişmesiyle birlikte, üniversite öğrencilerinin yaşamları da bu değişime ayak uydurmak zorunda. Pamukkale Üniversitesi öğrencileri olarak, bu değişime liderlik etmek ve öğrenci deneyimini daha da zenginleştirmek amacıyla, PAU SOSYAL adlı mobil uygulama projesi tasarlanmıştır.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- Açık/koyu mod geçişi
+- Türkçe - İngilizce dil desteği
+- Bildirim açma kapama
+- Tüm platformlara destek
 
-A few resources to get you started if this is your first Flutter project:
+## Ekran Görüntüleri
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+<img src="github/Ekran Resmi 2024-04-28 14.11.18 kopyası.png" width="200" height="324">
+  <img src="github/Ekran Resmi 2024-04-28 14.15.40.png" width="200" height="324">
+  <img src="github/Ekran Resmi 2024-04-28 14.16.27.png" width="200" height="324">
+  <img src="github/Adsız tasarım.png" width="200" height="324">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img src="github/Ekran Resmi 2024-04-28 14.49.06-photoaidcom--photoaid-remove-background.png" width="200" height="324">
+  <img src="github/Ekran Resmi 2024-04-28 14.58.05-photoaidcom--photoaid-remove-background.png" width="200" height="324">
+  <img src="github/Ekran Resmi 2024-04-28 17.01.35-photoaidcom--photoaid-remove-background.png" width="200" height="324">
+  <img src="github/Ekran Resmi 2024-04-28 17.12.22-photoaidcom--photoaid-remove-background.png" width="200" height="324">
+</p>
+
+<p align="center">
+<img src="github/Ekran Resmi 2024-04-28 18.00.33-photoaidcom--photoaid-remove-background.png" width="200" height="324">
+  <img src="github/Ekran Resmi 2024-04-28 18.15.30-photoaidcom--photoaid-remove-background.png" width="200" height="324">
+  <img src="github/Ekran Resmi 2024-04-28 18.17.24-photoaidcom--photoaid-remove-background.png" width="200" height="324">
+</p>
+
+## Kullanılan Teknolojiler
+
+**Database:** Firebase
+
+**State Managment:** Provider
+
+**Local Database:** Shared Preferences
+
+**Route:** Auto Route
+
+**Font:** Google Fonts
+
+**Logger:** Easy Logger
+
+## Bilgisayarınızda Çalıştırın
+
+Projeyi klonlayın
+
+```bash
+  git clone https://github.com/omerlevennt/pau_sosyal.git
+```
+
+Proje dizinine gidin
+
+```bash
+  cd pau_sosyal
+```
+
+Gerekli paketleri yükleyin
+
+```bash
+  npm install
+```
+
+Sunucuyu çalıştırın
+
+```bash
+  npm run start
+```
