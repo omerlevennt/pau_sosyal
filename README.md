@@ -45,6 +45,10 @@ Günümüzde teknolojinin hızla gelişmesiyle birlikte, üniversite öğrencile
 
 **Logger:** Easy Logger
 
+**Localization:** Easy Localization
+
+**Notification:** Firebase Messaging
+
 ## Bilgisayarınızda Çalıştırın
 
 Projeyi klonlayın
