@@ -1,0 +1,71 @@
+{
+    "App": {
+        "name": "PAU Sosyal"
+    },
+    "onboard": {
+        "first": {
+            "title": "Üniversite Serüveniniz İçin Destek",
+            "desc": "Üniversite hayatı, öğrenme, gelişme ve yeni deneyimler kazanmak için harika bir dönemdir.Hazır mısın ?"
+        },
+        "second": {
+            "title": "Sosyal Hayatınızı Dengeleyin",
+            "desc": "Üniversite yaşamı, akademik başarıyı sürdürmek ve sosyal deneyimlerin tadını çıkarmak arasında bir denge kurmayı gerektirebilir."
+        },
+        "third": {
+            "title": "Üniversite Deneyiminizi Özelleştirin",
+            "desc": "Herkesin üniversite deneyimi farklıdır. Bu uygulama, öğrenme ve gelişme sürecinizi desteklemek için tasarlanmıştır."
+        },
+        "navigation": {
+            "start": "Başla"
+        }
+    },
+    "login": {
+        "title": "Giriş",
+        "subtitle": "Devam etmek için giriş yapınız!",
+        "email": "Email",
+        "password": "Şifre",
+        "account": "Bir hesabın yok mu? ",
+        "register": "Kayıt ol"
+    },
+    "register": {
+        "nameSurname": "Adı Soyadı",
+        "email": "Email",
+        "password": "Şifre",
+        "passwordConfirm": "Şifre Tekarı",
+        "account": "Zaten bir hesabın var mı? ",
+        "login": "Giriş Yap",
+        "register": "Kaydol"
+    },
+    "search": {
+        "title": "Etkinlik Ara",
+        "searchHint": "Aramak istediğiniz etkinlik ?"
+    },
+    "notifications": {
+        "title": "Bildirimler"
+    },
+    "favorite": {
+        "favorite": "Favoriler",
+        "noFavorites": "Henüz favori yok"
+    },
+    "settings": {
+        "notification": "Bildirim",
+        "darkMode": "Koyu tema",
+        "language": "Dil",
+        "logOut": "Çıkış Yap"
+    },
+    "events": {
+        "description": "Etkinlik Açıklaması",
+        "place": "Yer",
+        "date": "Tarih - Saat"
+    },
+    "projects": {
+        "description": "Proje Açıklaması",
+        "topic": "Proje Konusu"
+    },
+    "jobs": {
+        "description": "İş Açıklaması",
+        "company": "İş Veren Firma",
+        "communication": "İletişim",
+        "address": "Adres"
+    }
+}

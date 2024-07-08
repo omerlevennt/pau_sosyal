@@ -1,0 +1,59 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+abstract class  LocaleKeys {
+  static const App_name = 'App.name';
+  static const App = 'App';
+  static const onboard_first_title = 'onboard.first.title';
+  static const onboard_first_desc = 'onboard.first.desc';
+  static const onboard_first = 'onboard.first';
+  static const onboard_second_title = 'onboard.second.title';
+  static const onboard_second_desc = 'onboard.second.desc';
+  static const onboard_second = 'onboard.second';
+  static const onboard_third_title = 'onboard.third.title';
+  static const onboard_third_desc = 'onboard.third.desc';
+  static const onboard_third = 'onboard.third';
+  static const onboard_navigation_start = 'onboard.navigation.start';
+  static const onboard_navigation = 'onboard.navigation';
+  static const onboard = 'onboard';
+  static const login_title = 'login.title';
+  static const login_subtitle = 'login.subtitle';
+  static const login_email = 'login.email';
+  static const login_password = 'login.password';
+  static const login_account = 'login.account';
+  static const login_register = 'login.register';
+  static const login = 'login';
+  static const register_nameSurname = 'register.nameSurname';
+  static const register_email = 'register.email';
+  static const register_password = 'register.password';
+  static const register_passwordConfirm = 'register.passwordConfirm';
+  static const register_account = 'register.account';
+  static const register_login = 'register.login';
+  static const register_register = 'register.register';
+  static const register = 'register';
+  static const search_title = 'search.title';
+  static const search_searchHint = 'search.searchHint';
+  static const search = 'search';
+  static const notifications_title = 'notifications.title';
+  static const notifications = 'notifications';
+  static const favorite_favorite = 'favorite.favorite';
+  static const favorite_noFavorites = 'favorite.noFavorites';
+  static const favorite = 'favorite';
+  static const settings_notification = 'settings.notification';
+  static const settings_darkMode = 'settings.darkMode';
+  static const settings_language = 'settings.language';
+  static const settings_logOut = 'settings.logOut';
+  static const settings = 'settings';
+  static const events_description = 'events.description';
+  static const events_place = 'events.place';
+  static const events_date = 'events.date';
+  static const events = 'events';
+  static const projects_description = 'projects.description';
+  static const projects_topic = 'projects.topic';
+  static const projects = 'projects';
+  static const jobs_description = 'jobs.description';
+  static const jobs_company = 'jobs.company';
+  static const jobs_communication = 'jobs.communication';
+  static const jobs_address = 'jobs.address';
+  static const jobs = 'jobs';
+
+}

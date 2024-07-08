@@ -1,0 +1,71 @@
+{
+    "App": {
+        "name": "PAU Social"
+    },
+    "onboard": {
+        "first": {
+            "title": "Support for Your University Adventure",
+            "desc": "University life is a great period for learning, developing and gaining new experiences. Are you ready ?"
+        },
+        "second": {
+            "title": "Balance Your Social Life",
+            "desc": "College life may require striking a balance between maintaining academic success and enjoying social experiences."
+        },
+        "third": {
+            "title": "Customize Your University Experience",
+            "desc": "Everyone's college experience is different. This app is designed to support your learning and development process."
+        },
+        "navigation": {
+            "start": "Start"
+        }
+    },
+    "login": {
+        "title": "Login",
+        "subtitle": "Login to continue!",
+        "email": "Email",
+        "password": "Password",
+        "account": "Don't have an account? ",
+        "register": "Register"
+    },
+    "register": {
+        "nameSurname": "Name Surname",
+        "email": "Email",
+        "password": "Password",
+        "passwordConfirm": "Password Confirm",
+        "account": "Do you already have an account? ",
+        "login": "Login",
+        "register": "Register"
+    },
+    "search": {
+        "title": "Search For Events",
+        "searchHint": "The event you want to search for?"
+    },
+    "notifications": {
+        "title": "Notifications"
+    },
+    "favorite": {
+        "favorite": "Favorites",
+        "noFavorites": "No favorites yet"
+    },
+    "settings": {
+        "notification": "Notification",
+        "darkMode": "Dark Mode",
+        "language": "Language",
+        "logOut": "Log Out"
+    },
+    "events": {
+        "description": "Event Description",
+        "place": "Place",
+        "date": "Date - Time"
+    },
+    "projects": {
+        "description": "Project Description",
+        "topic": "Project Topic"
+    },
+    "jobs": {
+        "description": "Job Description",
+        "company": "Employer Company",
+        "communication": "Communication",
+        "address": "Address"
+    }
+}
